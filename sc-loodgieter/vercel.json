@@ -1,0 +1,55 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/sc-loodgieter-contact.html",
+      "destination": "/contact.html",
+      "permanent": false
+    },
+    {
+      "source": "/sc-loodgieter-contact",
+      "destination": "/contact",
+      "permanent": false
+    },
+    {
+      "source": "/sc-loodgieter-diensten.html",
+      "destination": "/diensten.html",
+      "permanent": false
+    },
+    {
+      "source": "/sc-loodgieter-diensten",
+      "destination": "/diensten",
+      "permanent": false
+    },
+    {
+      "source": "/sc-loodgieter-over-ons.html",
+      "destination": "/over-ons.html",
+      "permanent": false
+    },
+    {
+      "source": "/sc-loodgieter-over-ons",
+      "destination": "/over-ons",
+      "permanent": false
+    },
+    {
+      "source": "/sc-loodgieter-projecten.html",
+      "destination": "/projecten.html",
+      "permanent": false
+    },
+    {
+      "source": "/sc-loodgieter-projecten",
+      "destination": "/projecten",
+      "permanent": false
+    },
+    {
+      "source": "/sc-loodgieter.html",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/sc-loodgieter",
+      "destination": "/",
+      "permanent": false
+    }
+  ]
+}
