@@ -1,0 +1,45 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/bbs-schildersbedrijf-contact.html",
+      "destination": "/contact.html",
+      "permanent": false
+    },
+    {
+      "source": "/bbs-schildersbedrijf-contact",
+      "destination": "/contact",
+      "permanent": false
+    },
+    {
+      "source": "/bbs-schildersbedrijf-diensten.html",
+      "destination": "/diensten.html",
+      "permanent": false
+    },
+    {
+      "source": "/bbs-schildersbedrijf-diensten",
+      "destination": "/diensten",
+      "permanent": false
+    },
+    {
+      "source": "/bbs-schildersbedrijf-over-ons.html",
+      "destination": "/over-ons.html",
+      "permanent": false
+    },
+    {
+      "source": "/bbs-schildersbedrijf-over-ons",
+      "destination": "/over-ons",
+      "permanent": false
+    },
+    {
+      "source": "/bbs-schildersbedrijf.html",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/bbs-schildersbedrijf",
+      "destination": "/",
+      "permanent": false
+    }
+  ]
+}
