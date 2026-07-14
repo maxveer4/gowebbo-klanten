@@ -1,0 +1,55 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/azdiensten-contact.html",
+      "destination": "/contact.html",
+      "permanent": false
+    },
+    {
+      "source": "/azdiensten-contact",
+      "destination": "/contact",
+      "permanent": false
+    },
+    {
+      "source": "/azdiensten-diensten.html",
+      "destination": "/diensten.html",
+      "permanent": false
+    },
+    {
+      "source": "/azdiensten-diensten",
+      "destination": "/diensten",
+      "permanent": false
+    },
+    {
+      "source": "/azdiensten-over-ons.html",
+      "destination": "/over-ons.html",
+      "permanent": false
+    },
+    {
+      "source": "/azdiensten-over-ons",
+      "destination": "/over-ons",
+      "permanent": false
+    },
+    {
+      "source": "/azdiensten-projecten.html",
+      "destination": "/projecten.html",
+      "permanent": false
+    },
+    {
+      "source": "/azdiensten-projecten",
+      "destination": "/projecten",
+      "permanent": false
+    },
+    {
+      "source": "/azdiensten.html",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/azdiensten",
+      "destination": "/",
+      "permanent": false
+    }
+  ]
+}
