@@ -1,0 +1,55 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/tegelloft-contact.html",
+      "destination": "/contact.html",
+      "permanent": false
+    },
+    {
+      "source": "/tegelloft-contact",
+      "destination": "/contact",
+      "permanent": false
+    },
+    {
+      "source": "/tegelloft-diensten.html",
+      "destination": "/diensten.html",
+      "permanent": false
+    },
+    {
+      "source": "/tegelloft-diensten",
+      "destination": "/diensten",
+      "permanent": false
+    },
+    {
+      "source": "/tegelloft-over-ons.html",
+      "destination": "/over-ons.html",
+      "permanent": false
+    },
+    {
+      "source": "/tegelloft-over-ons",
+      "destination": "/over-ons",
+      "permanent": false
+    },
+    {
+      "source": "/tegelloft-projecten.html",
+      "destination": "/projecten.html",
+      "permanent": false
+    },
+    {
+      "source": "/tegelloft-projecten",
+      "destination": "/projecten",
+      "permanent": false
+    },
+    {
+      "source": "/tegelloft.html",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/tegelloft",
+      "destination": "/",
+      "permanent": false
+    }
+  ]
+}
